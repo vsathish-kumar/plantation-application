@@ -1,3 +1,5 @@
+@media(max_width:500px)
+{
 #headery
         {background-color:#56b756;
             color: white;
@@ -97,8 +99,9 @@ float : left;
 { 
 position:absolute;
 width: 65%;
-left: 15%;
+left: 15%;        
 right: 15%;
 background-color: #2b322a;
 padding: 1px;
+}
 }
